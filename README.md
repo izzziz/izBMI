@@ -14,8 +14,6 @@ BMI does not measure body fat directly, but BMI is moderately correlated with mo
 
 For adults 20 years old and older, BMI is interpreted using standard weight status categories. These categories are the same for men and women of all body types and ages.
 
-The standard weight status categories associated with BMI ranges for adults are shown in the following table.
-
 ## BMI is not interpreted the same way for adults as it is for children and teens
 
 BMI is interpreted differently for children and teens, even though it is calculated using the same formula as adult BMI. Children and teen’s BMI need to be age and sex-specific because the amount of body fat changes with age and the amount of body fat differs between girls and boys. 
