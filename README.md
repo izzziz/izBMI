@@ -45,7 +45,7 @@ Height 	Weight Range 	BMI 	Weight Status
 * 203 lbs or more 	30 or higher 	*Obese*
 
 ## Screenshot
-![](Screenshot/)
+![](Full/screenshot.png)
 
 ## HomeScreen
 ![](Screenshot/HomeBMI.png)
