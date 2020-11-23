@@ -3,6 +3,9 @@
 
 izBMI is a Body Mass Index calculator in your pocket. An easy to use iOS application that when you move both available Sliders left or right to adjust your weight and height, then hit the calculate button. Different colours determine the different categories.
 
+## Screenshots
+![](Full/screenshot.png)
+
 ## What is BMI?
 
 Body mass index (BMI) is a person’s weight in kilograms divided by the square of height in meters, it determine whether you are in a healthy weight range for your height. BMI is an inexpensive and easy screening method for weight category—underweight, healthy weight, overweight, and obesity.
@@ -43,9 +46,6 @@ Height 	Weight Range 	BMI 	Weight Status
 * 169 lbs to 202 lbs 	25.0 to 29.9 	*Overweight*
 
 * 203 lbs or more 	30 or higher 	*Obese*
-
-## Screenshot
-![](Full/screenshot.png)
 
 ## HomeScreen
 ![](Screenshot/HomeBMI.png)
