@@ -50,12 +50,4 @@ Height 	Weight Range 	BMI 	Weight Status
 ## HomeScreen
 ![](Screenshot/HomeBMI.png)
 
-## When your BMI is: under 18.5kg/m – you are considered underweight and possibly malnourished
-![](Screenshot/UnderBMI.png)
-
-## If you are between 18.5 to 24.9kg/m – you are within a healthy weight range for young and middle-aged adults 25.0 to 29.9kg/m 
-![](Screenshot/FitBMI.png)
-
-## You are considered overweight over 30kg/m – you are considered obese.
-![](Screenshot/NoBMI.png)
 
